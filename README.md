@@ -11,7 +11,7 @@
 
 ### 👩🏽‍💻 About Me
 
-I'm Hala Khattab, a Computer Science major at the University of Nevada, Las Vegas and a Break Through Tech AI Fellow at Cornell Tech. I build tech with intention—from NLP models to responsive websites—and believe in the power of AI for social good, education, and sustainability.
+I'm Hala Khattab, a Computer Science major at the University of Nevada, Las Vegas and a Break Through Tech AI Fellow at Cornell Tech. I build tech with intention, from NLP models to responsive websites, and believe in the power of AI for social good, education, and sustainability.
 
 ---
 
