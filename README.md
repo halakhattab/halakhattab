@@ -96,7 +96,7 @@ I'm looking to leverage and grow my skills in an internship where I can contribu
 
 ### 🧘🏽‍♀️ Fun Fact
 
-I *loveeee* movies 🍿, Pilates & movement 💪🏽, and spontaneous travel ✈️. You’ll catch me coding to lo-fi beats while dreaming up my next trip 🌍.
+I *loveeee* movies 🍿, Pilates & movement 💪🏽, and spontaneous travel ✈️. 
 
 ---
 
