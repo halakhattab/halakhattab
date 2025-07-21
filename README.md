@@ -34,11 +34,8 @@ I'm Hala Khattab, a Computer Science major at the University of Nevada, Las Vega
 
 ### 🚀 Featured Project
 
-#### 🎯 **Sentiment Analysis for American Express**
-> An NLP project from my AI Studio Fellowship.
+#### 🎯 **Project from my AI Studio Fellowship**
 
-- Preprocessed social media data, trained SVM classifier with spaCy + scikit-learn  
-- Achieved 85% accuracy, improving baseline by 20%  
 - 📌 *[Project Repo](#)* (coming soon)
 
 ---
