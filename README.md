@@ -22,10 +22,10 @@ I'm looking to leverage and grow my skills in an internship where I can contribu
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++,
-**Data Science:** Pandas, NumPy, scikit-learn, TensorFlow  
-**Web Dev:** HTML, CSS, JavaScript 
-**Tools:** Jupyter Notebooks, Git, GitHub  
+**Languages:** Python, C++ <br>
+**Data Science:** Pandas, NumPy, scikit-learn, TensorFlow <br>
+**Web Dev:** HTML, CSS, JavaScript <br>
+**Tools:** Jupyter Notebooks, Git, GitHub <br>
 **Databases:** SQL
 
 <p align="center">
