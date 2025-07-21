@@ -86,15 +86,6 @@ I'm Hala Khattab, a Computer Science major at the University of Nevada, Las Vega
 
 ---
 
-### 🎧 Now Playing (Optional Spotify Card)
-
-<!-- Replace your Spotify ID below if you use Spotify -->
-<p align="center">
-  <img src="https://spotify-now-playing.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-
----
-
 ### 🧘🏽‍♀️ Fun Fact
 
 I *loveeee* movies 🍿, Pilates & movement 💪🏽, and spontaneous travel ✈️. You’ll catch me coding to lo-fi beats while dreaming up my next trip 🌍.
@@ -108,7 +99,3 @@ I *loveeee* movies 🍿, Pilates & movement 💪🏽, and spontaneous travel ✈
 🌐 [GitHub Profile](https://github.com/halakhattab)
 
 ---
-
-### 👁️‍🗨️ Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=halakhattab&color=blue)
