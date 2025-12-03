@@ -15,9 +15,9 @@ I'm Hala Khattab, a Computer Science major at the University of Nevada, Las Vega
 
 As a fellow, I’ve had the opportunity to sharpen my technical and professional skills in machine learning, supervised learning, data pipelines, and responsible AI. Currently, I'm focusing on building machine learning models and diving deeper into data science, while also developing real-world websites and software for small businesses through my internship.
 
-In this role, I’ve gained experience not only in development but also in bridging the gap between technical solutions and client needs—translating technical concepts for non-technical stakeholders, managing project workflows, and learning the nuances of tech consulting and program coordination along the way.
+In this role, I’ve gained experience not only in development but also in bridging the gap between technical solutions and client needs, translating technical concepts for non-technical stakeholders, managing project workflows, and learning the nuances of tech consulting and program coordination along the way.
 
-I'm looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals — got any leads? Let me know!
+I'm looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals!
 ---
 
 ### 🛠️ Tech Stack
