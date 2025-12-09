@@ -47,7 +47,7 @@ I'm looking to leverage and grow my skills in an internship where I can contribu
 
 #### 🎯 **Project from my AI Studio Fellowship**
 
-- 📌 *[Project Repo](#)* (coming soon)
+- 📌 *[Project Repo](#)* https://github.com/Rytham1/Meta-NLP-Bias
 
 ---
 
