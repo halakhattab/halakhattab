@@ -21,7 +21,7 @@ I'm looking to leverage my ML and software engineering skills in internship oppo
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** Python, C, C++, SQL, JavaScript  
 **ML/AI:** PyTorch, scikit-learn, Hugging Face Transformers, BERT  
@@ -43,19 +43,19 @@ I'm looking to leverage my ML and software engineering skills in internship oppo
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🎯 **Dataset Bias Detection Tool - Meta AI Studio Fellowship**
+#### **Dataset Bias Detection Tool - Meta AI Studio Fellowship**
 Fine-tuned BERT models on 28K RedditBias samples for demographic bias detection, achieving 0.83 F1 score (+12% improvement from baseline). Built reusable tool with PyTorch and Hugging Face Transformers, implementing fairness metrics and responsible AI practices.
 - 📌 *[Project Repo](https://github.com/Rytham1/Meta-NLP-Bias)*
 
-#### 💰 **Budget Tracker with ML-Powered Categorization**
+#### **Budget Tracker with ML-Powered Categorization**
 Built Streamlit application with machine learning models achieving 90% accuracy for automated transaction categorization. Features interactive visualizations and spending analysis using pandas/NumPy pipeline.
 - 📌 *[Project Repo](https://github.com/halakhattab/Budget-Tracker)* 
 
 ---
 
-### 💼 Additional Projects
+### Additional Projects
 
 - **🌐 [Rumi Room Restaurant Website](https://rumiroomvegas.com)**  
   Built a full-featured responsive website using HTML/CSS, optimized for SEO and mobile UX.
@@ -66,7 +66,7 @@ Built Streamlit application with machine learning models achieving 90% accuracy 
 
 ---
 
-### 📈 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=halakhattab&theme=default" />
@@ -82,7 +82,7 @@ Built Streamlit application with machine learning models achieving 90% accuracy 
 
 ---
 
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=halakhattab&theme=flat&no-frame=true&column=4&rank=AA,AAA,SSS,SS,S,B" />
@@ -90,7 +90,7 @@ Built Streamlit application with machine learning models achieving 90% accuracy 
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 - ![CS50](https://img.shields.io/badge/CS50%20Harvard-282C34?style=flat&logo=edX&logoColor=white) **CS50: Introduction to Computer Science** - Harvard University
 - ![Cornell ML](https://img.shields.io/badge/Cornell%20ML-B31B1B?style=flat&logo=python&logoColor=white) **Machine Learning Foundations** - Cornell University  
@@ -99,13 +99,13 @@ Built Streamlit application with machine learning models achieving 90% accuracy 
 
 ---
 
-### 🧘🏽‍♀️ Fun Fact
+### Fun Fact
 
 I *loveeee* movies 🍿, Pilates & movement 💪🏽, and spontaneous travel ✈️. 
 
 ---
 
-### 📬 Get In Touch
+### Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hala-khattab-8b28442b6)  
 📧 hala.khattaab@gmail.com  
