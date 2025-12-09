@@ -66,30 +66,6 @@ Built Streamlit application with machine learning models achieving 90% accuracy 
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halakhattab&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halakhattab&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halakhattab&layout=compact&theme=default" />
-</p>
-
----
-
-### GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=halakhattab&theme=flat&no-frame=true&column=4&rank=AA,AAA,SSS,SS,S,B" />
-</p>
-
----
-
 ### Certifications
 
 - ![CS50](https://img.shields.io/badge/CS50%20Harvard-282C34?style=flat&logo=edX&logoColor=white) **CS50: Introduction to Computer Science** - Harvard University
